@@ -11,7 +11,7 @@
 
 ## 🌸 About Me
 
-Hi! I'm **Arvy**, a student who enjoys learning about technology, programming, and building creative projects. This is where I share what I'm learning and the projects I've made along the way.
+Hi! I'm **Arvy**, a student who want to learn about technology, programming, and building creative projects. This is where I share what I'm learning and the projects I've made along the way.
 
 ## 💻 Programming Languages & Tools
 
