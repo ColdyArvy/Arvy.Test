@@ -1,4 +1,10 @@
-# 💜 Hi, I'm Arvy! ♡
+<p align="center">
+  <img src=""/>
+</p>
+<p align="center">
+💜 Hi, I'm Arvy! ♡
+  </p>
+
 
 ### 🎓 BSIT – Mobile & Web Applications
 **National University - Clark**
