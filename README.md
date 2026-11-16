@@ -41,5 +41,5 @@ Hi! I'm **Arvy**, a student who want to learn about technology, programming, and
 
 ## 💌 Connect With Me
 
-- 🐙 **GitHub:** [YOUR-USERNAME](https://github.com/ColdyArvy)
+- 🐙 **GitHub:** [Arvy Marimla](https://github.com/ColdyArvy)
 - ✉️ **Email:** marimlaab@students.nu-clark.edu.ph
